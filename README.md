@@ -58,6 +58,3 @@ Container name.</p>
 <li><code>Dockerfile</code></li>
 <li>all other files required to build the docker image (if applicable)</li>
 </ol>
-
-    </body>
-    </html>
